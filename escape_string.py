@@ -1,0 +1,15 @@
+# p.48 이스케이프 문자
+print("문자열 출력 방법")
+print('문자열 출력방법')
+print("I'm fine , thanks you!")
+print("I\"m fine, thanks your")
+# print("번호       이름         사는곳")
+# print("1            강아라        북구")
+# print("2         김현우        서구")
+# print("3           김혜인        광산구")
+print("번호\t이름\t사는곳")
+print("1\t강아라\t북구")
+print("2\t김현우\t북구")
+print("3\t김혜인\t북구")
+
+print("문장의 줄을 바꾸어 \n출력할때 사용합니다.")
